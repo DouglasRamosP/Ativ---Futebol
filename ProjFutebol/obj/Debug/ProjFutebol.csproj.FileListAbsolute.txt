@@ -1,0 +1,7 @@
+C:\Users\Douglas\Documents\Unis\2020\Programação Orientada a Objetos\Atividades\Atividade - 05\ProjFutebol\ProjFutebol\bin\Debug\ProjFutebol.exe.config
+C:\Users\Douglas\Documents\Unis\2020\Programação Orientada a Objetos\Atividades\Atividade - 05\ProjFutebol\ProjFutebol\bin\Debug\ProjFutebol.exe
+C:\Users\Douglas\Documents\Unis\2020\Programação Orientada a Objetos\Atividades\Atividade - 05\ProjFutebol\ProjFutebol\bin\Debug\ProjFutebol.pdb
+C:\Users\Douglas\Documents\Unis\2020\Programação Orientada a Objetos\Atividades\Atividade - 05\ProjFutebol\ProjFutebol\obj\Debug\ProjFutebol.csprojAssemblyReference.cache
+C:\Users\Douglas\Documents\Unis\2020\Programação Orientada a Objetos\Atividades\Atividade - 05\ProjFutebol\ProjFutebol\obj\Debug\ProjFutebol.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Documents\Unis\2020\Programação Orientada a Objetos\Atividades\Atividade - 05\ProjFutebol\ProjFutebol\obj\Debug\ProjFutebol.exe
+C:\Users\Douglas\Documents\Unis\2020\Programação Orientada a Objetos\Atividades\Atividade - 05\ProjFutebol\ProjFutebol\obj\Debug\ProjFutebol.pdb
